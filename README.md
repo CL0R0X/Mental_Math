@@ -1,12 +1,14 @@
-# Mental_Math
+# Mental Math
 
-This programs intentions was to create a way for the user can test their mental math skills in timed situation
-Applications: Job Questions of math, Practice for mathmatics
+The intention of this program is to create a way for the user to test their mental math skills in timed situations.
+
+Applications: 
+- Job math questions
+- Mathematics practice
 
 How to run this program:
-1st: Load all of the programs onto your desktop 
-2nd: Load The main program
-3rd: After the main is loaded the code would run in the terminal 
+1. Load all the programs onto your desktop.
+2. Load the main program.
+3. After the main program is loaded, the code will run in the terminal.
 
-Beware: The random Fraction part of the program is a bit buggy
-
+Beware: The random fraction part of the program is a bit buggy.
